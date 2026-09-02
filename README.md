@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/AI-Codex%20%7C%20Claude%20%7C%20Qwen-purple" alt="AI Models">
   <img src="https://img.shields.io/badge/Repository-Public%20Showcase-informational" alt="Public Showcase">
 </p>
+
 ### Multi-model AI orchestration & long-term memory system
 
 AgentMemory — локально управляемая система для совместной работы нескольких AI-моделей над реальными программными проектами.
@@ -21,7 +22,7 @@ AgentMemory — локально управляемая система для с
 <p align="center">
   <img src="assets/agentmemory-architecture.png" alt="AgentMemory Architecture" width="100%">
 </p>
-### Многомодельная система оркестровки ИИ и долговременной памяти
+
 ---
 
 ## 🚀 Что умеет AgentMemory
