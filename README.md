@@ -21,7 +21,7 @@ AgentMemory — локально управляемая система для с
 <p align="center">
   <img src="assets/agentmemory-architecture.png" alt="AgentMemory Architecture" width="100%">
 </p>
-
+### Многомодельная система оркестровки ИИ и долговременной памяти
 ---
 
 ## 🚀 Что умеет AgentMemory
