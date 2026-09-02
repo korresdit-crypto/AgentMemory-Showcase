@@ -219,15 +219,3 @@ Junior QA Engineer • Technical Support • AI Automation
 This repository contains documentation and demonstration materials only.
 
 Production configuration, project memory, credentials, API keys, private prompts and the primary AgentMemory source repository are intentionally not published.
-
-
-### Шаг 2. Внизу страницы
-
-В поле **Commit message** напиши:
-
-```text
-docs: create AgentMemory showcase README
-
-И нажми Commit changes / Подтвердить изменения.
-
-После этого у нас уже будет вполне приличная первая версия витрины. Потом добавим самое вкусное: красивую архитектурную схему, скриншоты тестов и отдельные страницы про Model Router, Memory и Git Change Gate. Тогда GitHub начнёт выглядеть как портфолио разработчика, а не как случайно забытая папка на сервере. 🚀
