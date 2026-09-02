@@ -1,5 +1,12 @@
 # 🧠 AgentMemory
-
+<p>
+  <img src="https://img.shields.io/badge/Status-Active%20Development-success" alt="Status">
+  <img src="https://img.shields.io/badge/Tests-1100%2B-blue" alt="Tests">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Git-Workflow-orange?logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/AI-Codex%20%7C%20Claude%20%7C%20Qwen-purple" alt="AI Models">
+  <img src="https://img.shields.io/badge/Repository-Public%20Showcase-informational" alt="Public Showcase">
+</p>
 ### Multi-model AI orchestration & long-term memory system
 
 AgentMemory — локально управляемая система для совместной работы нескольких AI-моделей над реальными программными проектами.
