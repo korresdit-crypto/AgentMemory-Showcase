@@ -9,6 +9,12 @@ AgentMemory — локально управляемая система для с
 > Этот репозиторий является публичной демонстрацией архитектуры AgentMemory.  
 > Основной исходный код, рабочая память проектов, конфигурация и чувствительные данные остаются приватными.
 
+## 🏗 Архитектура
+
+<p align="center">
+  <img src="assets/agentmemory-architecture.png" alt="AgentMemory Architecture" width="100%">
+</p>
+
 ---
 
 ## 🚀 Что умеет AgentMemory
